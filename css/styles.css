@@ -79,6 +79,7 @@ header nav ul a:hover {
 
 .product-text {
     position: relative;
+    height: 100px;
 }
 
 .product-text h1 {
