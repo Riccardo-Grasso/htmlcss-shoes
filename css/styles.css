@@ -82,10 +82,6 @@ header nav ul a:hover {
     width: 100%;
 }
 
-.product-text {
-    position: relative;
-}
-
 .product-text h1 {
     width: 100%;
     font-size: 70px;
